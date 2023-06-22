@@ -1,5 +1,4 @@
 # Juego Python con Pygame
-Este proyecto es un juego desarrollado en Python utilizando la biblioteca Pygame. Fue creado durante la materia de Introducción a la Programación a mediados de 2022.
 
 El objetivo principal del juego es ayudar al usuario a mejorar su habilidad de tecleo, enseñándole a ubicar correctamente las manos en el teclado sin necesidad de mirarlo. El juego consiste en escribir la mayor cantidad de palabras que aparecen en pantalla en un tiempo límite de 60 segundos.
 
