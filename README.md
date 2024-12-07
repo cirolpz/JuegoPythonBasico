@@ -1,4 +1,5 @@
 # Juego Python con Pygame
+- https://youtu.be/c-SfQ4q668M
 
 El objetivo principal del juego es ayudar al usuario a mejorar su habilidad de tecleo, enseñándole a ubicar correctamente las manos en el teclado sin necesidad de mirarlo. El juego consiste en escribir la mayor cantidad de palabras que aparecen en pantalla en un tiempo límite de 60 segundos.
 
